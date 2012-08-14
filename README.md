@@ -6,12 +6,12 @@ Android platforms (v14) - adjust to suit.
 
 To build and run:
 
-    ```bash
-    cd jni
-    ndk-build 
-    cd ..
-    ant clean debug install
-    ```
+~~~~~ bash
+cd jni
+ndk-build 
+cd ..
+ant clean debug install
+~~~~~
 
 
 The app is installed as 'Proj4 Native', when run you should see the cversion number displayed in a 
