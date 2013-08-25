@@ -17,5 +17,5 @@ ant clean debug install
 The app is installed as 'Proj4 Native', when run you should see the cversion number displayed in a 
 TextView, such as:
 
-![Android Screenshot](https://raw.github.com/mapdrops/android-hello-proj4/master/proj4.native.screen.png "Android Screenshot")
+![Android Screenshot](https://raw.github.com/devork/android-hello-proj4/master/proj4.native.screen.png "Android Screenshot")
 
